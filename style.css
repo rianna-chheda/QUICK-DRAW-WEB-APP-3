@@ -1,0 +1,32 @@
+
+body{
+    background-color: rgb(109, 255, 0);
+    font-family: cambria;
+}
+
+#score{
+    font-size: 30;
+    float:left;
+}
+
+#timer{
+    font-size: 30;
+    float:right;
+    margin:5px;
+}
+
+h1{
+    background-color: white;
+}
+
+#show_sketch{
+    float:right;
+}
+
+#to_draw{
+    color:red;
+}
+
+p{
+    font-size:20
+}
